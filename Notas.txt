@@ -1,0 +1,11 @@
+Propriedades, um flex container, o que é um flex container, como nós conseguimos dispor elementos dentro desse flex container. As propriedades justify-content, align-items, propriedades também diretamente relacionadas ao flex item, que é o align-self e justify-self.
+
+Depois, aos poucos, vimos as dificuldades e limitações de se utilizar o display flex, que é trabalhar com mais de um eixo ao mesmo tempo, então trabalhávamos só com o eixo ou na horizontal ou na vertical.
+
+E para resolver esse problema de ter dois eixos ao mesmo tempo, veio o grid e com o grid vieram outras propriedades novas, como, por exemplo, o grid-template-columns, grid-template-rows, grid-template-areas também, para poder girar as áreas disponíveis para o grid.
+
+Também vimos como fazemos para criar colunas dentro do grid container, criar linhas dentro do grid container, como visualizamos um grid dentro do projeto do Figma.
+
+Então fomos lá no projeto do Figma, visualizamos, desenhamos por cima e falamos: “Ok, temos tantas colunas, tantas linhas, esses elementos vão ficar divididos nessas posições”. E conseguimos reposicionar esses elementos com o grid-columns, grid-rows e o grid-area.
+
+Além de tudo isso, fizemos a página tanto na versão mobile quando para a versão desktop, e vimos as diferenças que existem de layout e como elas se adaptam também utilizando essas novas propriedades.
